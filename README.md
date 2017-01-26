@@ -5,4 +5,4 @@
 
 A Project for image convolution. Applies filters (blur) to images.
 
-[badge-license]: https://img.shields.io/badge/license-MIT-green.svg
+[badge-license]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square

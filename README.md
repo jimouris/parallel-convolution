@@ -1,6 +1,5 @@
-[![License MIT][badge-license]](LICENSE.txt)
+# Parallel Convolution [![License MIT][badge-license]](LICENSE.txt)
 
-# Parallel Convolution
 ### MPI - MPI&OMP - CUDA
 
 A Project for image convolution. Applies filters (blur) to images.
